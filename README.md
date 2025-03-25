@@ -1,1 +1,1 @@
-# STT_lab_assg
+# STT Lab Assignments
